@@ -1,5 +1,5 @@
 # Threat Intelligence Analysis Report  
-## MetaMask Phishing Kit (GrabThePhisher)
+## MetaMask Phishing Kit
 
 **This assessment evaluates whether the analyzed MetaMask phishing kit represents a user-driven credential access threat capable of bypassing traditional perimeter- and endpoint-based security controls, with a focus on behavioral tradecraft and detection implications.**
 
